@@ -17,3 +17,8 @@ This bash script helps users search for pipelines within DigiBee that contain a 
 2. **Set Permissions:** Make the script executable:
    ```bash
    chmod +x pipeline_search.sh
+   
+**Usage**
+
+    ```bash
+    ./pipeline_search.sh <search_term>
