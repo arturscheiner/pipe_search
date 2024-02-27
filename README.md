@@ -19,6 +19,5 @@ This bash script helps users search for pipelines within DigiBee that contain a 
    chmod +x pipeline_search.sh
    
 **Usage**
-
-    ```bash
+   ```bash
     ./pipeline_search.sh <search_term>
